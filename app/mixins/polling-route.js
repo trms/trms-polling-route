@@ -1,0 +1,1 @@
+export { default } from 'trms-polling-route/mixins/polling-route';
